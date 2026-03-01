@@ -6,9 +6,3 @@ let user = {
     width: 50
   }
 };
-let clone = {};
-for (let key in user) {
-
-  clone[key] = user[key]
-
-}
