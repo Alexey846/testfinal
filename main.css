@@ -1,0 +1,10 @@
+p {
+  font-size: 3em;
+  text-align: center;
+  color: white;
+}
+ body {
+   margin: 0;
+   padding: 0;
+   background-color: grey;
+ }
