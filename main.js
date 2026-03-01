@@ -6,3 +6,5 @@ let user = {
     width: 50
   }
 };
+
+console.log(user);
