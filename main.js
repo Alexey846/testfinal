@@ -16,4 +16,4 @@ console.log(clone);
 console.log(user.sizes == clone.sizes);
 user.sizes.height = "123"
 console.log(clone);
-console.log(1234342);
+console.log(1234);
