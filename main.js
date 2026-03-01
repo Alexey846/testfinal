@@ -12,8 +12,3 @@ for (let key in user) {
   clone[key] = user[key]
 
 }
-console.log(clone);
-console.log(user.sizes == clone.sizes);
-user.sizes.height = "123"
-console.log(clone);
-console.log(1234);
